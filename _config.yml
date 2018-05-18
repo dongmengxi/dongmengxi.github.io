@@ -79,13 +79,14 @@ analytics:
 # Site Author
 author:
   name             : "Yiming Zhao"
-  avatar           : "profile.png"
+  avatar           : "yiming.jpg"
   bio              : "C.L.E. Moore Instructor at MIT"
   location         : "Office"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=ioEjpX4AAAAJ&hl=en"
-  email            :
+  email            : "yimingzh@mit.edu"
   uri              :
+  #mathscinet       : "https://mathscinet.com"
   bitbucket        :
   codepen          :
   dribbble         :
