@@ -9,7 +9,7 @@ I primarily work in the field of convex geometric analysis. I am particularly in
 
 I am also interested in isoperimetric inequalities (both affine and non-affine, geometric and functional).
 
-This page contains a list of peer-reviewed papers and preprints. It is updated periodically. You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a></u>, or on <u><a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1164900">MathSciNet</a></u> (subscription required). 
+This page contains a list of peer-reviewed papers and preprints. It is updated periodically. You can also find my articles on <u><a href="https://scholar.google.com/citations?user=ioEjpX4AAAAJ&hl=en">my Google Scholar profile</a></u>, or on <u><a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1164900">MathSciNet</a></u> (subscription required). 
 
 ## Peer-reviewed
 
