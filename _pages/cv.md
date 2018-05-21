@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-A copy of my most recent CV can also be found <a href="/files/CV.pdf" target="_blank"><u>here</u></a>. Last updated: 05/19/2018.wewe
+A copy of my most recent CV can also be found <a href="/files/CV.pdf" target="_blank"><u>here</u></a>. Last updated: 05/19/2018.
 
 
 <object data="/files/CV.pdf" type="application/pdf" width="700px" height="700px">
