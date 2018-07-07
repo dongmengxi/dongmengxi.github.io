@@ -13,7 +13,8 @@ This page contains a list of peer-reviewed papers and preprints. It is updated p
 
 ## Peer-reviewed
 
-- (with Y. Huang) On the $L_p$ dual Minkowski problem. *Adv. Math.* in press.
+- (with C. Chen and Y. Huang) Smooth solutions to the $L_p$ dual Minkowski problem. *Math. Ann.* in press. [pdf](/files/smooth_lp_DMP.pdf)
+- (with Y. Huang) On the $L_p$ dual Minkowski problem. *Adv. Math.* 332: 57-84, 2018. 
 - Existence of solutions to the even dual Minkowski problem. *J. Differential Geom.* in press.
 - The dual Minkowski problem for negative indices. *Calc. Var. Partial Differential Equations,* 56:18,2017. [arXiv](https://arxiv.org/pdf/1703.00524.pdf)
 - On $L_p$-affine surface area and curvature measures. *Int. Math. Res. Not. IMRN,* (5): 1387-1423, 2016. [arXiv](https://arxiv.org/pdf/1509.05485.pdf)
@@ -21,7 +22,6 @@ This page contains a list of peer-reviewed papers and preprints. It is updated p
 ## Preprint
 
 - The $L_p$ Aleksandrov problem for origin-symmetric polytopes. [arXiv](https://arxiv.org/pdf/1803.10839.pdf)
-- (with C. Chen and Y. Huang) Smooth solutions to the $L_p$ dual Minkowski problem.
 - (with K. Böröczky, E. Lutwak, D. Yang, and G. Zhang) The dual Minkowski problem for symmetric convex bodies. [arXiv](https://arxiv.org/pdf/1703.06259.pdf)
 
 
