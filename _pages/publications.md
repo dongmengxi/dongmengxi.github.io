@@ -13,7 +13,7 @@ This page contains a list of peer-reviewed papers and preprints. It is updated p
 
 ## Peer-reviewed
 
-- (with C. Chen and Y. Huang) Smooth solutions to the $L_p$ dual Minkowski problem. *Math. Ann.* in press. [pdf](/files/smooth_lp_DMP.pdf)
+- (with C. Chen and Y. Huang) Smooth solutions to the $L_p$ dual Minkowski problem. *Math. Ann.* in press. [pdf](https://rdcu.be/2VVN)
 - (with Y. Huang) On the $L_p$ dual Minkowski problem. *Adv. Math.* 332: 57-84, 2018. 
 - Existence of solutions to the even dual Minkowski problem. *J. Differential Geom.* in press.
 - The dual Minkowski problem for negative indices. *Calc. Var. Partial Differential Equations,* 56:18,2017. [arXiv](https://arxiv.org/pdf/1703.00524.pdf)
