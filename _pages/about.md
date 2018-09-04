@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Starting from Fall 2018, I will be at Massachusetts Institute of Technology as a C.L.E. Moore Instructor. My primary research field is convex geometric analysis. I am particularly interested in geometric invariants, geometric measures, and their characterization problem (Minkowski-type problems).
+I am a C.L.E. Moore Instructor at Massachusetts Institute of Technology. My primary research field is convex geometric analysis. I am particularly interested in geometric invariants, geometric measures, and their characterization problem (Minkowski-type problems).
 
 Before coming to MIT, I was briefly at St. John's University as a full-time contract faculty at the rank of Assistant Professor.
 
