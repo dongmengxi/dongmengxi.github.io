@@ -10,6 +10,8 @@ Fall 2018:
 
 18.02A recitation
 
+<hr>
+
 Here is a list of courses I've taught multiple times in the past.
 
 * St. John's University
