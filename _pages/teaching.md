@@ -4,9 +4,11 @@ excerpt: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-Fall 2018: <u><a href="/teaching/1801afall2018">Recitation for 18.01A/02A Calculus</a></u>
+Fall 2018:
 
-[wwerwe](/teaching/1801afall2018)
+[18.01A recitation](/teaching/1801afall2018)
+
+18.02A recitation
 
 Here is a list of courses I've taught multiple times in the past.
 
