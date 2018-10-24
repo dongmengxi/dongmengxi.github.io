@@ -8,7 +8,7 @@ Fall 2018:
 
 [18.01A recitation](/teaching/1801afall2018)
 
-18.02A recitation
+[18.02A recitation](/teaching/1802afall2018)
 
 <hr>
 
