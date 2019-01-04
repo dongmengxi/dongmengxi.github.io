@@ -24,5 +24,5 @@ This page contains a list of peer-reviewed papers and preprints. It is updated p
 - The $L_p$ Aleksandrov problem for origin-symmetric polytopes. [arXiv](https://arxiv.org/pdf/1803.10839.pdf)
 - (with K. Böröczky, E. Lutwak, D. Yang, and G. Zhang) The dual Minkowski problem for symmetric convex bodies. [arXiv](https://arxiv.org/pdf/1703.06259.pdf)
 - (with K. Böröczky, E. Lutwak, D. Yang, and G. Zhang) The Gauss image problem. *submitted.*
-- (with D. Xi) Orlicz moment rearrangment inequality. *submitted.* [pdf](/files/rearrangement.pdf) 
+- (with D. Xi) Orlicz moment rearrangment inequality. *submitted.*
 
