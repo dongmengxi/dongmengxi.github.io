@@ -11,18 +11,14 @@ I am also interested in isoperimetric inequalities (both affine and non-affine, 
 
 This page contains a list of peer-reviewed papers and preprints. It is updated periodically. You can also find my articles on <u><a href="https://scholar.google.com/citations?user=ioEjpX4AAAAJ&hl=en">my Google Scholar profile</a></u>, or on <u><a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1164900">MathSciNet</a></u> (subscription required). 
 
-## Peer-reviewed
-
-- (with C. Chen and Y. Huang) Smooth solutions to the $L_p$ dual Minkowski problem. *Math. Ann.* in press. [pdf](https://rdcu.be/2VVN)
+## Publications
+- (with D. Xi) General affine invariances related to Mahler volume. *submitted.*
+- (with K. Böröczky, E. Lutwak, D. Yang, and G. Zhang) The Gauss image problem. *Communications on Pure and Applied Mathematics*, in press.
+- (with K. Böröczky, E. Lutwak, D. Yang, and G. Zhang) The dual Minkowski problem for symmetric convex bodies. *Adv. Math.* 356: 106805, 2019.
+- (with C. Chen and Y. Huang) Smooth solutions to the $L_p$ dual Minkowski problem. *Math. Ann.* 373 (3-4):953-976, 2019.
+- The $L_p$ Aleksandrov problem for origin-symmetric polytopes. *Proc. Amer. Math. Soc.* 147 (10):4477-4492, 2019. 
 - (with Y. Huang) On the $L_p$ dual Minkowski problem. *Adv. Math.* 332: 57-84, 2018. 
 - Existence of solutions to the even dual Minkowski problem. *J. Differential Geom.* 110 (3): 543–572, 2018.
-- The dual Minkowski problem for negative indices. *Calc. Var. Partial Differential Equations,* 56:18,2017. [arXiv](https://arxiv.org/pdf/1703.00524.pdf)
-- On $L_p$-affine surface area and curvature measures. *Int. Math. Res. Not. IMRN,* (5): 1387-1423, 2016. [arXiv](https://arxiv.org/pdf/1509.05485.pdf)
-
-## Preprint
-
-- The $L_p$ Aleksandrov problem for origin-symmetric polytopes. [arXiv](https://arxiv.org/pdf/1803.10839.pdf)
-- (with K. Böröczky, E. Lutwak, D. Yang, and G. Zhang) The dual Minkowski problem for symmetric convex bodies. [arXiv](https://arxiv.org/pdf/1703.06259.pdf)
-- (with K. Böröczky, E. Lutwak, D. Yang, and G. Zhang) The Gauss image problem. *submitted.*
-- (with D. Xi) Orlicz moment rearrangment inequality. *submitted.*
+- The dual Minkowski problem for negative indices. *Calc. Var. Partial Differential Equations* 56:18,2017. [arXiv](https://arxiv.org/pdf/1703.00524.pdf)
+- On $L_p$-affine surface area and curvature measures. *Int. Math. Res. Not. IMRN* (5): 1387-1423, 2016. [arXiv](https://arxiv.org/pdf/1509.05485.pdf)
 

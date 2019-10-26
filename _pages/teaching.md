@@ -4,11 +4,24 @@ excerpt: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+
+Fall 2019:
+
+18.100Q Communication Intensive Real Analyis 
+
+<hr>
+
+Spring 2019:
+
+18.03 Differential Equations recitation
+
+<hr>
+
 Fall 2018:
 
-[18.01A recitation](/teaching/1801afall2018)
+[18.01A Calculus recitation](/teaching/1801afall2018)
 
-[18.02A recitation](/teaching/1802afall2018)
+[18.02A Calculus recitation](/teaching/1802afall2018)
 
 <hr>
 
