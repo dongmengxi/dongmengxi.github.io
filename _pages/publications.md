@@ -12,6 +12,7 @@ I am also interested in isoperimetric inequalities (both affine and non-affine, 
 This page contains a list of peer-reviewed papers and preprints. It is updated periodically. You can also find my articles on <u><a href="https://scholar.google.com/citations?user=ioEjpX4AAAAJ&hl=en">my Google Scholar profile</a></u>, or on <u><a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1164900">MathSciNet</a></u> (subscription required). 
 
 ## Publications
+- (with Y. Huang and D. Xi) The Minkowski problem in Gaussian probability space. *submitted.* [preprint]("GaussianMP.pdf")
 - (with D. Xi) General affine invariances related to Mahler volume. *submitted.*
 - (with K. Böröczky, E. Lutwak, D. Yang, and G. Zhang) The Gauss image problem. *Communications on Pure and Applied Mathematics*, in press.
 - (with K. Böröczky, E. Lutwak, D. Yang, and G. Zhang) The dual Minkowski problem for symmetric convex bodies. *Adv. Math.* 356: 106805, 2019.

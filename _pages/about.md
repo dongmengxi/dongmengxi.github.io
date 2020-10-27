@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a C.L.E. Moore Instructor at Massachusetts Institute of Technology. My primary research field is convex geometric analysis. I am particularly interested in geometric invariants, geometric measures, and their characterization problem (Minkowski-type problems).
+I am a C.L.E. Moore Instructor at Massachusetts Institute of Technology. My mentor is Professor David Jerison. I am on the job market this year (2020-2021).
+
+My research interest lies in the intersection of convex geometric analysis and PDE. I am supported by NSF grant DMS-2002778.
 
 Before coming to MIT, I was briefly at St. John's University as a full-time contract faculty at the rank of Assistant Professor.
 
