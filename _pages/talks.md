@@ -7,6 +7,8 @@ author_profile: true
 
 Here is a list of talks that I have given in the past:
 
+-2020 Oct. AMS special session (virtual), The Minkowski problem in Gaussian probability space.
+-2020 Aug. University of Connecticut, Reconstruction of convex bodies via Gauss map.
 - 2019 Jun. International Congress of Chinese Mathematicians, 45-min talk, The dual Minkowski problem for $o$-symmetric convex bodies.
 - 2019 Jun. Fudan University, The dual Minkowski problem for o-symmetric convex bodies.
 - 2019 Jun. Tongji University, The dual Minkowski problem for o-symmetric convex bodies.
