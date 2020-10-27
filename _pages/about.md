@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a C.L.E. Moore Instructor at Massachusetts Institute of Technology. My mentor is Professor David Jerison. I am on the job market this year (2020-2021).
+I am a C.L.E. Moore Instructor at Massachusetts Institute of Technology. My mentor is [Professor David Jerison](https://math.mit.edu/directory/profile.php?pid=112). I am on the job market this year (2020-2021).
 
 My research interest lies in the intersection of convex geometric analysis and PDE. I am supported by NSF grant DMS-2002778.
 
