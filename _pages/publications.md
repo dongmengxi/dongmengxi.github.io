@@ -9,7 +9,7 @@ I primarily work in the field of convex geometric analysis. I am particularly in
 
 I am also interested in isoperimetric inequalities (both affine and non-affine, geometric and functional).
 
-This page contains a list of peer-reviewed papers and preprints. It is updated periodically. You can also find my articles on <u><a href="https://scholar.google.com/citations?user=ioEjpX4AAAAJ&hl=en">my Google Scholar profile</a></u>, or on <u><a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1164900">MathSciNet</a></u> (subscription required). 
+This page contains a list of peer-reviewed papers and preprints. It is updated periodically. You can also find my articles on <u><a href="https://scholar.google.com/citations?user=ioEjpX4AAAAJ&hl=en">my Google Scholar profile</a></u>, or on <u><a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1164900">MathSciNet</a></u> (subscription required).
 
 ## Publications
 - (with Y. Huang and D. Xi) The Minkowski problem in Gaussian probability space. *submitted.* [pdf](/files/GaussianMP.pdf)
@@ -22,4 +22,3 @@ This page contains a list of peer-reviewed papers and preprints. It is updated p
 - Existence of solutions to the even dual Minkowski problem. *J. Differential Geom.* 110 (3): 543–572, 2018. [pdf](/files/integerdMP.pdf)
 - The dual Minkowski problem for negative indices. *Calc. Var. Partial Differential Equations* 56:18,2017. [pdf](/files/negativedMP.pdf) [arXiv](https://arxiv.org/pdf/1703.00524.pdf)
 - On $L_p$-affine surface area and curvature measures. *Int. Math. Res. Not. IMRN* (5): 1387-1423, 2016. [arXiv](https://arxiv.org/pdf/1509.05485.pdf)
-
