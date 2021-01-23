@@ -1,10 +1,11 @@
 ---
 title: "job"
 excerpt: "job"
-permalink: /jobtalk
+permalink: /jobtalk/
 author_profile: true
 redirect_from:
-  - /resume
+  - /jobtalk
+  - /jobtalk.html
 ---
 {% include base_path %}
 
