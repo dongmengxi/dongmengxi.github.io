@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a C.L.E. Moore Instructor at Massachusetts Institute of Technology. My mentor is [Professor David Jerison](https://math.mit.edu/directory/profile.php?pid=112). I am on the job market this year (2020-2021).
 
-My research interest lies in the intersection of convex geometric analysis and PDE. I am supported by NSF grant DMS-2002778.
+My research interest lies in the intersection of convex geometric analysis and PDE. I am partially supported by a standard NSF grant: DMS-2002778 ($159,159.00, 06/2020---05/2023).
 
 Before coming to MIT, I was briefly at St. John's University as a full-time contract faculty at the rank of Assistant Professor.
 
