@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="111.39mm" height="105.15mm" inkscape:version="1.0.1 (c497b03c, 2020-09-10)" sodipodi:docname="normal parametrization of parallel body_new.svg" version="1.1" viewBox="0 0 77.975 73.605" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <style/>
+ <defs>
+  <marker id="Arrow1Mstart" overflow="visible" inkscape:isstock="true" inkscape:stockid="Arrow1Mstart" orient="auto">
+   <path transform="matrix(.4 0 0 .4 4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:current-layer="layer3" inkscape:cx="278.82684" inkscape:cy="200.38096" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-global="true" inkscape:window-height="855" inkscape:window-maximized="0" inkscape:window-width="1440" inkscape:window-x="131" inkscape:window-y="23" inkscape:zoom="1.50617" pagecolor="#ffffff" scale-x="0.7" showgrid="false"/>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-19.113 -13.087)" inkscape:groupmode="layer" inkscape:label="parallel body" sodipodi:insensitive="true">
+  <rect x="27.408" y="20" width="60" height="60" ry="5.6142" fill="#fea" opacity=".85" stroke="#000" stroke-width=".284"/>
+  <rect x="32.408" y="25" width="50" height="50" ry="0" fill="#000080" stroke-dasharray="0.794999, 0.264999" stroke-width=".265"/>
+  <path d="m75.743 13.702 20.377 15.107" fill="#800000" stroke="#800000" stroke-dasharray="1.395, 0.465" stroke-width=".465"/>
+  <path d="m27.061 13.088c-0.03516 13.639-0.26806 54.554-0.30322 68.193l0.25479 6.56e-4c0.03516-13.639 0.01327-54.555 0.04843-68.193z" stroke="#800000" stroke-dasharray="0.895572, 0.447786" stroke-width=".44779" inkscape:original-d="M 27.061204,13.088035 26.885377,81.281098" inkscape:path-effect="#path-effect1259"/>
+  <circle cx="58.408" cy="51" r="1" fill="#ff0"/>
+  <text x="20.465332" y="83.869865" fill="#000000" font-family="sans-serif" font-size="3.3338px" stroke-width=".18521" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="20.465332" y="83.869865" font-size="3.3338px" sodipodi:role="line">parametrization according to normal direction</tspan></text>
+ </g>
+ <g inkscape:groupmode="layer" inkscape:label="point 1">
+  <circle cx="55.815" cy="8.3632" r=".69446" fill="#f00" stroke="#000" stroke-width=".28175"/>
+ </g>
+ <g inkscape:groupmode="layer" inkscape:label="closest point">
+  <circle cx="55.98" cy="12.066" r=".69446" fill="#f00" stroke="#000" stroke-width=".28175"/>
+ </g>
+ <g fill="none" stroke="#f00" inkscape:groupmode="layer" inkscape:label="normal direction" sodipodi:insensitive="true">
+  <path d="m55.857 11.682c-0.02459-0.68861-0.0058-2.7578-0.03042-3.4464l-0.1851 0.00662c0.02459 0.68861 0.19092 2.7511 0.21551 3.4398z" stroke-dasharray="0.651, 0.651" stroke-width=".3255" inkscape:original-d="M 55.857109,11.68181 55.734142,8.2387499" inkscape:path-effect="#path-effect900"/>
+  <path d="m50.933 4.5729 0.0687 5.0374 0.03686 2.7027" marker-start="url(#Arrow1Mstart)" stroke-width=".37504" inkscape:transform-center-x="3.0567516" inkscape:transform-center-y="20.657683" sodipodi:nodetypes="ccc"/>
+ </g>
+</svg>

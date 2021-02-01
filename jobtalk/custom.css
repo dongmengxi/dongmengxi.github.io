@@ -1,0 +1,307 @@
+.reveal .title-slide {
+    color: #fff;
+}
+
+.reveal .title-slide h3 {
+    color: #fff;
+}
+
+.reveal h1 {
+    background: #121426;
+    color: #fff;
+    position: fixed;
+    font-size: 40px;
+    padding: 0.25em;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
+.reveal .red {
+    color: #DB4437;
+}
+.highlight-red{
+  color: #DB4437;
+}
+
+.reveal .slides section .fragment.highlight-red.visible {
+    color: #DB4437;
+}
+
+.reveal .blue {
+    color: #4285F4;
+}
+
+.reveal .green {
+    color: #0F9D58;
+}
+
+.central-dot {
+    background-color: black;
+    height: 1px;
+    width: 1px;
+    position: fixed;
+    left: 50%;
+    right: 50%;
+}
+
+.reveal .small-caps {
+    font-variant: small-caps;
+}
+
+.reveal blockquote {
+    box-shadow: none;
+    background: transparent;
+}
+
+.reveal .slides section .fragment.appeared {
+    visibility: visible;
+    opacity: 1;
+}
+
+.reveal .fragment.visible.fragment-move-left {
+    transform: translate(-3em, 0) scale(2);
+}
+
+.reveal .fragment.visible.fragment-move-right {
+    transform: translate(3em, 0) scale(2);
+}
+
+.reveal .fragment.visible.move-down {
+    transform: translate(0, 125px);
+}
+
+.reveal .fragment.visible.to-ellipse {
+    transform: matrix(1.5,0,0,0.5,-125,200);
+}
+
+.reveal .fragment.visible.move-plank {
+    transform: matrix(1,0.3,-1,0.5,125,65);
+}
+
+.reveal .avatar {
+    border-radius: 50%;
+    height: 2.5em;
+    width: 2.5em;
+    border: none;
+}
+
+.reveal section img.simple {
+    border: none;
+    box-shadow: none;
+}
+
+.ball {
+    display: inline-block;
+    background: #121426;
+    margin: 0;
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+    margin: 20px 40px;
+    background: radial-gradient(circle at 30px 30px, #dce6f0, #121426);
+}
+
+.reveal .conjecture {
+  text-align: left;
+    border-radius: 0.5rem;
+    border: 0.5rem solid #DB4437;
+}
+
+.reveal .conjecture > p:first-child {
+  text-align: left;
+    margin: 0;
+    color: white;
+    padding-bottom: 0.5rem;
+    background: #DB4437;
+}
+
+.reveal .conjecture.with-avatar > p:last-child, .reveal .theorem.with-avatar > p:last-child {
+    text-align: left;
+    padding: 0;
+}
+
+.reveal .conjecture.with-avatar > img, .reveal .theorem.with-avatar > img {
+    float: left;
+    margin: 10px 20px 0;
+}
+
+
+.reveal .theorem {
+  text-align: left;
+    border-radius: 0.5rem;
+    border: 0.5rem solid #4885ed;
+}
+
+.reveal .theorem > p:first-child {
+    margin: 0;
+    color: white;
+    padding-bottom: 0.5rem;
+    background: #4885ed;
+    text-align: left;
+}
+
+.reveal .conjecture > p:last-child, .reveal .theorem > p:last-child {
+    margin: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.reveal .flex-container {
+    display: flex;
+}
+
+.reveal .flex-container > .col {
+    flex: 1
+}
+
+.reveal .eighty-percent {
+    font-size: 80%;
+}
+.reveal .sixty-percent {
+    font-size: 60%;
+}
+.reveal img.simple {
+    border: none;
+    box-shadow: none;
+}
+
+.reveal .fragment.show-border {
+    border-color: transparent;
+}
+
+.reveal .fragment.visible.show-border {
+    border-color: #4885ed;
+}
+
+.reveal img.inline {
+    border: none;
+    box-shadow: none;
+    height: 1em;
+}
+
+.reveal .photo-with-tag {
+    position: relative;
+}
+
+.reveal .photo-with-tag img {
+    height: 342px;
+    width: 684px;
+}
+.reveal .photo-with-tag .tag {
+    position: absolute;
+    font-size: 0.4em;
+    background: rgba(255,255,255,0.75);
+    border-radius: 5px;
+    padding: 0 5px;
+}
+
+.explore-planet {
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+}
+.planet {
+    box-sizing: border-box;
+    position: relative;
+    border-radius: 100%;
+    height: 120px;
+    width: 120px;
+    overflow: hidden;
+    z-index: 2;
+    display: inline-block;
+    backface-visibility: hidden;
+}
+.surface {
+    position: absolute;
+    border-radius: 100%;
+    height: 140%;
+    width: 140%;
+    top: -30%;
+    right: -10%;
+    box-sizing: border-box;
+    border: 30px solid rgba(0,0,0,.15);
+    background: #ff5f40;
+}
+.crater1, .crater2, .crater3 {
+      position: absolute;
+      border-radius: 100%;
+      background: rgba(0,0,0,.15);
+      box-shadow: inset 3px 3px 0 rgba(0,0,0,.2);
+}
+.crater1 {
+    height: 20px;
+    width: 20px;
+    top: 32%;
+    left: 17%;
+}
+.crater2 {
+    height: 10px;
+    width: 10px;
+    top: 26%;
+    left: 55%;
+    box-shadow: inset 2px 2px 0 rgba(0,0,0,.2);
+}
+.crater3 {
+    height: 10px;
+    width: 10px;
+    top: 60%;
+    left: 40%;
+    box-shadow: inset 2px 2px 0 rgba(0,0,0,.2);
+}
+.gravity {
+    width: 0px;
+    height: 0px;
+    animation: sideToSide 3s infinite ease-in-out alternate;
+    position: relative;
+    top: 30px;
+    left: 50%;
+    margin-left: -100px;
+    z-index: 3;
+}
+
+.satellite {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #0F9D58;
+    animation: circle 6s infinite linear;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -50px;
+    transform-origin: 50px center;
+}
+@keyframes circle { to { transform: rotate(1turn); } }
+@keyframes sideToSide { to { transform: translateX(200px); } }
+
+table.td-centered td {
+    text-align: center;
+}
+
+.body_row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.body_column {
+  flex: 33.33%;
+  padding: 5px;
+}
+.body_column2 {
+  flex: 50%;
+  padding: 5px;
+}
+
+.container{
+  position: relative;
+}
+.stack_formula {
+    position: absolute;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+}
