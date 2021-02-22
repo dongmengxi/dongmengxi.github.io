@@ -5,9 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-I primarily work in the field of convex geometric analysis. I am particularly interested in the Minkowski-type problems for geometric measures obtained by "differentiating" geometric invariants. These problems generate Monge-Ampère equations on the unit sphere and can be tackled from a PDE point of view (e.g., geometric flow).
+I am interested in the existence and uniqueness of solutions to a variety of Monge-Ampère type equations that come from the study of convex bodies. Solutions to these PDEs (with minimal possible regularity) lead to the reconstruction of convex bodies when different types of geometric measures are prescribed. In convex geometry, they are known as Minkowski-type problems.
 
-I am also interested in isoperimetric inequalities (both affine and non-affine, geometric and functional).
+The techniques I use include calculus of variation, geometric flow, method of continuity, and degree theory. 
+
+I am also interested in sharp isoperimetric inequalities (both affine and non-affine, geometric and functional).
 
 I am partially supported by a standard NSF grant: DMS-2002778 ($159,159.00, 06/2020---05/2023).
 
