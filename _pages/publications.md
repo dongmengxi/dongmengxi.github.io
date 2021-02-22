@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I am interested in the existence and uniqueness of solutions to a variety of Monge-Ampère type equations that come from the study of convex bodies. Solutions to these PDEs (with minimal possible regularity) lead to the reconstruction of convex bodies when different types of geometric measures are prescribed. In convex geometry, they are known as Minkowski-type problems.
+I am interested in the existence and uniqueness of solutions to a variety of Monge-Ampère type equations that come from the study of convex bodies. Solutions to these PDEs lead to the reconstruction of convex bodies when different types of geometric measures are prescribed. In convex geometry, they are known as Minkowski-type problems.
 
 The techniques I use include calculus of variation, geometric flow, method of continuity, and degree theory. 
 
