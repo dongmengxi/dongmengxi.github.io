@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="4.6077in" height="2.9885in" inkscape:version="1.0.1 (c497b03c, 2020-09-10)" sodipodi:docname="o-support function.svg" version="1.1" viewBox="0 0 234.07 151.81" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <marker id="Arrow2Mend" overflow="visible" inkscape:isstock="true" inkscape:stockid="Arrow2Mend" orient="auto">
+   <path transform="scale(-.6)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill="#008000" fill-rule="evenodd" stroke="#008000" stroke-linejoin="round" stroke-width=".625"/>
+  </marker>
+  <path id="MJX-4-TEX-I-76" d="m173 380q0 25-19 25-24 0-50-29t-43-89q-1-1-2-3t-1-3-2-2-3-1-4 0-8 0h-14q-6 6-6 9 0 7 8 29t24 52 44 51 63 22q42 0 65-24t24-56q0-17-3-26 0-6-15-44t-31-89-18-89q0-27 5-44 13-43 63-43 37 0 69 34t50 79 29 83 11 55q0 23-8 40t-18 26-18 18-8 22q0 22 19 41t41 19q19 0 34-18t16-58q0-27-12-83t-37-125-71-119-106-51q-64 0-102 33-37 32-37 95 0 31 8 64t41 117q22 64 22 82z"/>
+  <path id="MJX-6-TEX-I-68" d="m137 683q1 0 72 5t73 6q12 0 12-9 0-11-36-151-38-148-38-151 0-2 7 5 61 54 130 54 54 0 87-27t34-79q0-51-38-158t-38-128q1-14 5-19t15-5q28 0 52 30t39 82q3 11 6 13t16 2q20 0 20-8 0-1-4-15-16-59-51-97-34-43-81-43h-5q-47 0-68 27t-21 57q0 16 36 118t37 153q0 59-44 59h-5q-83 0-144-98l-7-13-34-135q-32-130-37-142-13-27-44-27-14 0-24 9t-11 18q0 14 73 304l74 296q0 13-7 16t-39 5h-21q-6 6-6 8t2 19q5 19 13 19z"/>
+  <path id="MJX-6-TEX-I-51" d="m399-80q0 33 1 50t2 19v4l-15-4q-46-11-84-11-95 0-165 57t-87 166q-1 8-1 43 0 102 48 194t129 163q124 103 249 103 38 0 48-1 97-14 156-86t60-182q0-180-148-328-63-60-131-91l-17-8v-5q0-1 5-27t21-42 46-16q35 0 67 22t42 57q6 14 13 14 9 0 11-9 0-8-10-36t-28-66-54-65-76-29q-82 0-82 107zm237 548q0 55-15 96t-41 61-50 30-53 10q-48 0-98-25-102-49-164-176t-62-248q0-106 54-157 24-21 29-21v8q0 40 33 74t78 35q25 0 43-11t27-30 12-32 6-27l13 9q64 44 109 121t62 149 17 134zm-322-450q48 0 90 21l-1 10q-4 55-37 66-12 2-19 2-3 0-6 0t-4 1q-20 0-41-20t-22-46q0-34 40-34z"/>
+  <path id="MJX-6-TEX-N-28" d="m94 250q0 69 10 131t23 107 37 88 38 67 42 52 33 34 25 21h17q14 0 14-9 0-3-17-21t-41-53-49-86-42-138-17-193 17-192 41-139 49-86 42-53 17-21q0-9-15-9h-16l-28 24q-94 85-137 212t-43 264z"/>
+  <path id="MJX-6-TEX-I-76" d="m173 380q0 25-19 25-24 0-50-29t-43-89q-1-1-2-3t-1-3-2-2-3-1-4 0-8 0h-14q-6 6-6 9 0 7 8 29t24 52 44 51 63 22q42 0 65-24t24-56q0-17-3-26 0-6-15-44t-31-89-18-89q0-27 5-44 13-43 63-43 37 0 69 34t50 79 29 83 11 55q0 23-8 40t-18 26-18 18-8 22q0 22 19 41t41 19q19 0 34-18t16-58q0-27-12-83t-37-125-71-119-106-51q-64 0-102 33-37 32-37 95 0 31 8 64t41 117q22 64 22 82z"/>
+  <path id="MJX-6-TEX-N-29" d="m60 749 4 1q5 0 10 0h12l28-24q94-85 137-212t43-264q0-68-10-131t-23-107-37-88-38-67-41-51-32-33-23-19q-3-3-4-4h-12q-8 0-11 0t-5 3-3 9q1 1 11 13 155 161 155 475t-155 475q-10 12-11 13 0 8 5 11z"/>
+  <path id="MJX-7-TEX-I-51" d="m399-80q0 33 1 50t2 19v4l-15-4q-46-11-84-11-95 0-165 57t-87 166q-1 8-1 43 0 102 48 194t129 163q124 103 249 103 38 0 48-1 97-14 156-86t60-182q0-180-148-328-63-60-131-91l-17-8v-5q0-1 5-27t21-42 46-16q35 0 67 22t42 57q6 14 13 14 9 0 11-9 0-8-10-36t-28-66-54-65-76-29q-82 0-82 107zm237 548q0 55-15 96t-41 61-50 30-53 10q-48 0-98-25-102-49-164-176t-62-248q0-106 54-157 24-21 29-21v8q0 40 33 74t78 35q25 0 43-11t27-30 12-32 6-27l13 9q64 44 109 121t62 149 17 134zm-322-450q48 0 90 21l-1 10q-4 55-37 66-12 2-19 2-3 0-6 0t-4 1q-20 0-41-20t-22-46q0-34 40-34z"/>
+ </defs>
+ <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:current-layer="layer1" inkscape:cx="626.39254" inkscape:cy="216.62445" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-global="false" inkscape:snap-object-midpoints="true" inkscape:window-height="855" inkscape:window-maximized="0" inkscape:window-width="1252" inkscape:window-x="0" inkscape:window-y="23" inkscape:zoom="0.47066875" pagecolor="#ffffff" showgrid="false" units="in"/>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-35.599 -60.529)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+  <g font-family="sans-serif" font-size="38.1px" stroke-width="0" style="line-height:1.25" aria-label="{">
+   <use transform="matrix(.02783 0 0 -.02783 241.19 124.07)" width="100%" height="100%" fill="#008000" xlink:href="#MJX-4-TEX-I-76"/>
+   <g transform="matrix(.016901 0 0 -.016901 166.43 175.95)" fill="#f00" data-mml-node="math">
+    <g transform="matrix(1.1201 0 0 1.1201 60.584 -107.83)" fill="#f00" stroke="#000" stroke-width="0" data-mml-node="math">
+     <g data-mml-node="msub">
+      <g data-mml-node="mi">
+       <use width="100%" height="100%" fill="#ff0000" xlink:href="#MJX-6-TEX-I-68"/>
+      </g>
+      <g transform="matrix(.707 0 0 .707 576 -150)" data-mml-node="mi">
+       <use width="100%" height="100%" fill="#ff0000" xlink:href="#MJX-6-TEX-I-51"/>
+      </g>
+     </g>
+     <g transform="translate(1185.3)" data-mml-node="mo">
+      <use width="100%" height="100%" fill="#ff0000" xlink:href="#MJX-6-TEX-N-28"/>
+     </g>
+     <g transform="translate(1574.3)" data-mml-node="mi">
+      <use width="100%" height="100%" fill="#ff0000" xlink:href="#MJX-6-TEX-I-76"/>
+     </g>
+     <g transform="translate(2059.3)" data-mml-node="mo">
+      <use width="100%" height="100%" fill="#ff0000" xlink:href="#MJX-6-TEX-N-29"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <path d="m75.973 116.37c-13.985 11.591-31.372 26.458-37.546 42.712-6.1735 16.253-1.1339 33.892 8.9457 44.601 10.08 10.709 25.198 14.489 65.642-7.6862 40.444-22.175 106.21-70.303 110.12-92.604 3.9059-22.301-54.05-18.773-88.32-12.851s-44.853 14.237-58.838 25.828z" fill="#000080" stroke="#000" stroke-width=".26458px" inkscape:original-d="m 79.374994,113.09057 c -17.386635,14.86741 -34.773541,29.73449 -52.160708,44.60129 5.040048,17.63952 10.079627,35.27807 15.119045,52.9167 15.119615,3.7801 30.238361,7.55979 45.357143,11.33928 C 153.4599,173.81815 219.22645,125.69011 284.99404,77.560733 227.03796,81.088775 169.0816,84.616555 111.12499,88.14407 c -10.58307,8.31574 -21.166396,16.63124 -31.749996,24.9465 z" inkscape:path-effect="#path-effect841" sodipodi:nodetypes="ccccacc"/>
+  <circle cx="105.46" cy="150.96" r="4.1577" fill="#ff0" stroke="#000" stroke-width="2.065"/>
+  <g>
+   <path d="m222.81 70.398 0.94976 124.03" fill="none" stroke="#008000" stroke-width="1.665" sodipodi:nodetypes="ccc"/>
+   <path d="m222.25 99.937h44.601" fill="#008000" marker-end="url(#Arrow2Mend)" stroke="#008000" stroke-width="1.865"/>
+   <path d="m105.46 150.96 116.04-0.37798" fill="#f00" stroke="#f00" stroke-dasharray="4.395, 4.395" stroke-width="1.465"/>
+  </g>
+  <use transform="matrix(.023569 0 0 -.023569 137.89 77.122)" width="100%" height="100%" fill="#000080" stroke-width="0" xlink:href="#MJX-7-TEX-I-51"/>
+ </g>
+</svg>
