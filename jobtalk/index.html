@@ -302,14 +302,14 @@
 					<table style="width:120%" class="eighty-percent">
 
 					  <tr>
-					    <td style="border: none;" class="green">the Minkowski problem</td>
+					    <td style="border: none;" class="green">Minkowski problem</td>
 					   </tr>
 					  <tr>
-					    <td style="border: none;" class="green">the dual Minkowski problem</td>
+					    <td style="border: none;" class="green">dual Minkowski problem</td>
 					    <td style="border: none;">aimed at <span class="blue">recovering such complicated convex shape</span></td>
 					  </tr>
 					  <tr>
-					    <td class="green">the Gauss image problem</td>
+					    <td class="green">Gauss image problem</td>
 					  </tr>
 					</table>
 					<p class="eighty-percent">each one equivalent to solve a <span class="green">Monge-Ampère type equation</span></p>
@@ -4973,19 +4973,9 @@
 						<p>Lemma</p>
 						If a maximizer is obtained at $Q$, then $Q$ solves the dual Minkowski problem.
 					</div>
+					<p class="fragment">To show maximizer exists: uniform $C^0$ upper and lower bound.</p>
 				</section>
 
-				<section class="eighty-percent">
-					\[
-					\sup {\Big\{}-\frac{1}{|\mu|}\int_{S^{n-1}}\log h_Q d\mu +\frac{1}{i} \log \widetilde{W}_{i}(Q)\Big\}
-					\]
-					<ol>
-						<li class="fragment">Take a maximizing sequence $Q_j$.</li>
-						<li class="fragment">By homogeneity, rescale so that $Q_j$ is uniformly bounded.</li>
-						<li class="fragment">The Blaschke Selection theorem: can take a convergent subsequence.</li>
-						<li class="fragment">Derive lower bound --- $C^0$ estimate, John's lemma, "barrier convex body"=generalized cylinder</li>
-					</ol>
-				</section>
 				<section class="eighty-percent">
 					<p>Remaining cases:</p>
 					<ol>
@@ -4994,6 +4984,27 @@
 						<li>uniqueness/isoperimetric inequality</li>
 					</ol>
 				</section>
+			</section>
+			
+			<section class="eighty-percent">
+				<p>Future work:</p>
+				<ol>
+					<li class="fragment highlight-current-red">Minkowski-type problems in other measure spaces (<i>e.g.</i>, Gaussian probability space): loss of homogeneity and translation invariance</li>
+					<li class="fragment highlight-current-red">Minkowski-type problems for noncompact convex hypersurfaces</li>
+					<li class="fragment highlight-current-red">convex body with optimal mass transport, and probability theory </li>
+				</ol>
+			</section>
+			
+			<section class="eighty-percent">
+				\[
+				\sup {\Big\{}-\frac{1}{|\mu|}\int_{S^{n-1}}\log h_Q d\mu +\frac{1}{i} \log \widetilde{W}_{i}(Q)\Big\}
+				\]
+				<ol>
+					<li class="fragment">Take a maximizing sequence $Q_j$.</li>
+					<li class="fragment">By homogeneity, rescale so that $Q_j$ is uniformly bounded.</li>
+					<li class="fragment">The Blaschke Selection theorem: can take a convergent subsequence.</li>
+					<li class="fragment">Derive lower bound --- $C^0$ estimate, John's lemma, "barrier convex body"=generalized cylinder</li>
+				</ol>
 			</section>
 
 		</div>
