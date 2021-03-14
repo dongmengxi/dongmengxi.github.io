@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>
-		Recovering the shapes of convex bodies
+		Monge-Ampère equations in convex shape recovery
 	</title>
 	<meta name="author" content="Yiming Zhao">
 	<link rel="stylesheet" href="reveal.js-3.8.0/css/reveal.css">
@@ -18,7 +18,7 @@
 			<!-- Slide 1 -->
 			<section class="title-slide" data-background-color="#121426">
 				<h3>
-					Recovering the shapes of convex bodies
+					Monge-Ampère equations <p>in convex shape recovery</p>
 				</h3>
 				<p>
 					<small>Yiming Zhao</small><br>
@@ -27,9 +27,40 @@
 				</p>
 			</section>
 			<!-- Slide 2 -->
-			<section class="eighty-percent">
-				<!-- Slide 2.1 -->
+			
 				<section>
+					<div class="eighty-percent">
+						<p>Overview of this talk: </p>
+						\[\Phi(h,\nabla_{S^{n-1}} h) \det(\nabla^2_{S^{n-1}} h+hI)=f \qquad \text{ on }S^{n-1}\]
+						<table style="width:120%" class="eighty-percent">
+
+						  <tr>
+						    <td style="border: none;" class="green">Minkowski problem</td>
+						   </tr>
+						  <tr>
+						    <td style="border: none;" class="green">dual Minkowski problem</td>
+						    <td style="border: none;">aimed at <span class="blue">recovering complicated convex shapes</span></td>
+						  </tr>
+						  <tr>
+						    <td class="green">Gauss image problem</td>
+						  </tr>
+						</table>
+						<p class="eighty-percent">each one equivalent to solve a <span class="green">Monge-Ampère type equation</span></p>
+
+						<p class="fragment">with connections to</p>
+					</div>
+					<div class="sixty-percent">
+						<p><span class="fragment fade-right">differential geometry</span><span class="fragment fade-right">, optimal mass transport</span><span class="fragment fade-right">,
+								geometric and functional isoperimetric inequalities</span><span class="fragment fade-right">, algebraic geometry</span><span class="fragment fade-right">, applied math, ...</span></p>
+					</div>
+				</section>
+			<section>
+				<section class="eighty-percent">
+					<p>The Monge-Ampère equation</p>
+					\[\det(\nabla^2_{S^{n-1}}h +hI) = f \qquad\text{ on } S^{n-1}\]
+				</section>
+				<!-- Slide 2.1 -->
+				<section  class="eighty-percent">
 					<p>
 						In $\mathbb{R}^n$, a <span class="blue">convex body</span> is a <span class="green">compact, convex</span>
 						set with <span class="green">non-empty interior</span>.
@@ -129,7 +160,7 @@
 				</section>
 
 				<!-- Slide 2.2 -->
-				<section>
+				<section  class="eighty-percent">
 					<p>Boundary shape can get <em><span class="green">much</span></em> messier!
 					</p>
 					<!-- cap body -->
@@ -293,37 +324,12 @@
 
 					<!-- end cap body -->
 				</section>
-			</section>
+			
 
 			<!-- slide 2.5.1 -->
-			<section>
-				<div class="eighty-percent">
-					<p>Overview of this talk: </p>
-					<table style="width:120%" class="eighty-percent">
-
-					  <tr>
-					    <td style="border: none;" class="green">Minkowski problem</td>
-					   </tr>
-					  <tr>
-					    <td style="border: none;" class="green">dual Minkowski problem</td>
-					    <td style="border: none;">aimed at <span class="blue">recovering such complicated convex shape</span></td>
-					  </tr>
-					  <tr>
-					    <td class="green">Gauss image problem</td>
-					  </tr>
-					</table>
-					<p class="eighty-percent">each one equivalent to solve a <span class="green">Monge-Ampère type equation</span></p>
-
-					<p class="fragment">with connections to</p>
-				</div>
-				<div class="sixty-percent">
-					<p><span class="fragment fade-right">differential geometry</span><span class="fragment fade-right">, optimal mass transport</span><span class="fragment fade-right">,
-							geometric and functional isoperimetric inequalities</span><span class="fragment fade-right">, algebraic geometry</span><span class="fragment fade-right">, applied math, ...</span></p>
-				</div>
-			</section>
+			
 
 			<!-- slide 3.1 -->
-			<section>
 				<section>
 					<p class="eighty-percent"><span class="highlight-red">Question:
 						</span>What <span class="green">geometric quantities</span> can be used to recover the shape of a convex body?
@@ -943,7 +949,7 @@
 					<p class="eighty-percent fragment">Claim: there is a PDE!</p>
 				</section>
 				<section>
-					<p class="eighty-percent">Support function $h_Q:\mathbb{R}^n\rightarrow \mathbb{R}$</p>
+					<p class="eighty-percent">Support function $h_Q:S^{n-1}\rightarrow \mathbb{R}$</p>
 					<svg width="4.6077in" height="2.9885in" inkscape:version="1.0.1 (c497b03c, 2020-09-10)" sodipodi:docname="o-support function.svg" version="1.1" viewBox="0 0 234.07 151.81" xmlns="http://www.w3.org/2000/svg"
 						xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 						xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -2515,7 +2521,7 @@
 							<circle style="display:inline;opacity:1;fill:#ffff00;stroke:none;stroke-width:0.465001;stroke-miterlimit:4;stroke-dasharray:0.93, 0.465001;stroke-dashoffset:0" id="path1282-3-3" cx="155.97925" cy="49.360573" r="0.99999994" />
 						</g>
 					</svg>
-					<p>Essential difference generated by <span class="highlight-red">lack of smoothness</span> of the body </p>
+					<p>Essential difference caused by <span class="highlight-red">lack of smoothness</span> of the body </p>
 				</section>
 
 				<section  class="eighty-percent">
