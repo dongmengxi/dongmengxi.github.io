@@ -1,11 +1,17 @@
----
 title: "CV"
 excerpt: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-{% include base_path %}
+permalink: /geometry-colloquium/
+author_profile: false
 
-A copy of my most recent CV can also be found <a href="/files/CV.pdf" target="_blank"><u>here</u></a>. Last updated: 3/27/2022.
+---
+
+<hr>
+
+This is a weekly online seminar.
+
+<hr>
+
+Organizers: Dongmeng Xi; Jin Li
+
+Academic Committee: Xiangyu Zhou; Yun Gao; Wancheng Sheng; Gangsong Leng
+    
