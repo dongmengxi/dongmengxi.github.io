@@ -13,7 +13,8 @@ Fall 2020:
 Here is a list of courses I've taught multiple times in the past.
 
 * Shanghai University
-    * hahaha
-
-* New York University
-    * TA
+    * Real Analysis
+    * Differential Geometry
+    * Functional Analysis
+    
+ 
