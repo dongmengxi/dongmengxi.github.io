@@ -9,7 +9,7 @@ I work in convex geometry. I am especially interested in the isoperimetric probl
 
 I am partially supported by a general program of the National Natural Science Foundation of China (12071277), and a key program of the Science and Technology Commission of Shanghai Municipality (20JC1412600).
 
-This page contains a list of peer-reviewed papers and preprints. It is updated periodically. You can also find my articles  on <u><a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1010189">MathSciNet</a></u> (subscription required).
+This page contains a list of peer-reviewed papers and preprints. It is updated periodically. You can also find my articles  on <u><a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1060858">MathSciNet</a></u> (subscription required).
 
 ## Publications
 - (with Z. Zhang) The Lp Brunn-Minkowski inequalities for dual quermassintegrals.  *to appear in Proc. Amer. Math. Soc.*
