@@ -1,20 +1,17 @@
 ---
-title: "Teaching"
-excerpt: "Teaching"
-permalink: /teaching/
+title: "SHU Geometry Colloquium"
+excerpt: "geometry-colloquium"
+permalink: /SHU Geometry Colloquium/
 author_profile: false
 ---
-Fall 2020:
-
-
 
 <hr>
 
-Here is a list of courses I've taught multiple times in the past.
+This is a weekly online seminar.
 
-* Shanghai University
-    * Real Analysis
-    * Differential Geometry
-    * Functional Analysis
+<hr>
+
+Organizers: Dongmeng Xi; Jin Li
+Academic Committee: Xiangyu Zhou; Yun Gao; Wancheng Sheng; Gangsong Leng
     
  
