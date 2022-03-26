@@ -1,5 +1,5 @@
-title: "CV"
-excerpt: "CV"
+title: "SHU Geomtry Colloquium"
+excerpt: "cv"
 permalink: /geometry-colloquium/
 author_profile: false
 

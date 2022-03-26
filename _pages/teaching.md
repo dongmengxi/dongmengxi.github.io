@@ -2,11 +2,9 @@
 title: "Teaching"
 excerpt: "Teaching"
 permalink: /teaching/
-author_profile: false
+author_profile: true
 ---
-Fall 2020:
-
-
+ 
 
 <hr>
 
