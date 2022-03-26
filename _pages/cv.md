@@ -12,8 +12,9 @@ This is a weekly online seminar in the areas of geometric analysis, convex geome
 <hr>
 
 
-Organizers: Dongmeng Xi; Jin Li
-Academic Committee: Xiangyu Zhou; Yun Gao; Wancheng Sheng; Gangsong Leng
+-Organizers: Dongmeng Xi; Jin Li
+
+-Academic Committee: Xiangyu Zhou; Yun Gao; Wancheng Sheng; Gangsong Leng
 
 <hr>
 
@@ -21,6 +22,12 @@ Academic Committee: Xiangyu Zhou; Yun Gao; Wancheng Sheng; Gangsong Leng
 
 | Time     | Speaker |Title|
 | ----------- | ----------- |-----------|
+| TBA      | TBA    | TBA    |
+| TBA   | TBA        | TBA    |
+| TBA      | TBA    | TBA    |
+| TBA   | TBA        | TBA    |
+| TBA      | TBA    | TBA    |
+| TBA   | TBA        | TBA    |
 | TBA      | TBA    | TBA    |
 | TBA   | TBA        | TBA    |
 
