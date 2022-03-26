@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Dongmeng Xi"
 title_separator          : "-"
-name                     : &name "Yiming Zhao"
-description              : &description "This is Yiming Zhao's personal website."
-url                      : https://yimingzhaomath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dongmeng Xi"
+description              : &description "This is Dongmeng Xi's personal website."
+url                      : https://dongmengxi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
-repository               : "yimingzhaomath/yimingzhaomath.github.io"
+repository               : "dongmengxi/dongmengxi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,15 +78,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yiming Zhao"
+  name             : "Dongmeng Xi"
   avatar           : "yiming.JPG"
   bio              : "Assistant Professor at Syracuse University"
   location         : "Carnegie 206E"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=ioEjpX4AAAAJ&hl=en"
-  email            : "yzhao197@syr.edu"
+  googlescholar    : 
+  email            : "dongmengxi@live.com"
   uri              :
-  mathscinet       : "1164900"
+  mathscinet       : "1010189"
   bitbucket        :
   codepen          :
   dribbble         :
