@@ -23,7 +23,7 @@ This is a weekly seminar (online/offline) at Shanghai University, in the areas o
 
 | Time  | Speaker |         Title          |        Tencent Meeting          |
 | --------- |-------| --------- ------------ | --- -----|
-| TBA      | TBA    | TBA    |https://meeting.tencent.com/dm/vrnNf8z9PIUw|
+| TBA      | TBA    | TBA    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
 | TBA   | TBA        | TBA    |https://meeting.tencent.com/dm/vrnNf8z9PIUw|
 | TBA      | TBA    | TBA    |https://meeting.tencent.com/dm/vrnNf8z9PIUw|
 | TBA   | TBA        | TBA    |https://meeting.tencent.com/dm/vrnNf8z9PIUw|
