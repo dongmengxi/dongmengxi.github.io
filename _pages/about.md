@@ -17,7 +17,8 @@ Before that, I used to be an exchanging Ph.D student from September 2014 to Sept
 
 In 2017 and 2018 I was a postdoctoral fellow at Fudan University, and my mentor was Professor [Jixiang Fu](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=616042).
 
-I graduated with a Ph.D. in Mathematics from Shanghai University in October 2015. My Ph.D. advisor is Professor [Gangsong Leng](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=323352), a mentor  and close friend.  If I had not met him, I may not have the opportunity to study mathematics. 
+I graduated with a Ph.D. in Mathematics from Shanghai University in October 2015. My Ph.D. advisor is Professor [Gangsong Leng](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=323352), a mentor  and close friend. I can never forget his kindness.
+If I had not met him, I may not have the opportunity to study mathematics. 
 
 
 
