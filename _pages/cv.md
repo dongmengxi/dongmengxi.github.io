@@ -21,15 +21,13 @@ This is a weekly seminar (online/offline) at Shanghai University, in the areas o
 
 ## Upcoming Talks
 
-| Time  | Speaker |         Title          |
-| --------- |-- ----- |-----------------------------|
-| TBA      | TBA    | TBA    |
-| TBA   | TBA        | TBA    |
-| TBA      | TBA    | TBA    |
-| TBA   | TBA        | TBA    |
-| TBA      | TBA    | TBA    |
-| TBA   | TBA        | TBA    |
-| TBA      | TBA    | TBA    |
-| TBA   | TBA        | TBA    |
+| Time  | Speaker |         Title          |        Tencent Meeting          |
+| --------- |-------| --------- ------------ | --- -----|
+| TBA      | TBA    | TBA    |https://meeting.tencent.com/dm/vrnNf8z9PIUw|
+| TBA   | TBA        | TBA    |https://meeting.tencent.com/dm/vrnNf8z9PIUw|
+| TBA      | TBA    | TBA    |https://meeting.tencent.com/dm/vrnNf8z9PIUw|
+| TBA   | TBA        | TBA    |https://meeting.tencent.com/dm/vrnNf8z9PIUw|
+| TBA      | TBA    | TBA    |https://meeting.tencent.com/dm/vrnNf8z9PIUw|
+| TBA   | TBA        | TBA    |https://meeting.tencent.com/dm/vrnNf8z9PIUw|
 
 
