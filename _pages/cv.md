@@ -5,7 +5,7 @@ permalink: /geom-colloquium/
 author_profile: false
 ---
 
-<img style="float: left;" src="shu.jpg">
+
 
 <hr>
 
