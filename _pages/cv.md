@@ -5,7 +5,7 @@ permalink: /geom-colloquium/
 author_profile: false
 ---
 
-[GitHub Logo](/images/shu.png)
+<img style="float: left;" src="shu.jpg">
 
 <hr>
 
