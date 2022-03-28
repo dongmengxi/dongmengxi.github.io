@@ -16,7 +16,7 @@ I visited Courant institute of Mathematical Sciences at New York University from
 
 In 2017 and 2018 I was a postdoctoral fellow at Fudan University, and  Professor [Jixiang Fu](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=616042) was my mentor.  
 
-I graduated with a Ph.D. in Mathematics from Shanghai University in October 2015, under the supervision of  Professor [Gangsong Leng](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=323352).
+I graduated with a Ph.D. in Mathematics from Shanghai University in October 2015, under the supervision of  Professor [Gangsong Leng](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=323352). 
 
 
 
