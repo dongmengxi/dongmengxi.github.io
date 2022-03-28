@@ -1,6 +1,6 @@
 ---
-title: "SHU Geometry Colloquium"
-excerpt: "SHU Geometry Colloquium"
+title: "SHU Geometry and Analysis Colloquium"
+excerpt: "SHU Geometry and Analysis Colloquium"
 permalink: /geom-colloquium/
 author_profile: false
 ---
@@ -23,7 +23,7 @@ This is a   seminar series (online/in person) at [Shanghai University](https://w
 
 | Time  | Speaker |         Title          |        Tencent Meeting          |
 | --------- |-------| --------- ------------ | --- -----|
-| TBA      | TBA    | TBA[pdf](/files/wang.pdf)    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
+| TBA      | Gaoyong Zhang (New York University)  | TBA[pdf](/files/wang.pdf)    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
 | TBA      | TBA    | TBA    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
 | TBA      | TBA    | TBA    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
 | TBA      | TBA    | TBA    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
