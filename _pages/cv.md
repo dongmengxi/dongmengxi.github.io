@@ -1,5 +1,5 @@
 ---
-title: "SHU Geometry and Analysis Colloquium"
+title: "SHU Colloquium"
 excerpt: "SHU Geometry and Analysis Colloquium"
 permalink: /geom-colloquium/
 author_profile: false
