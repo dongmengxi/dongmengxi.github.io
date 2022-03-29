@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I work in convex geometry. I am especially interested in the isoperimetric problems of geometric invariants, and the Minkowski problems for geometric measures. 
+I primarily work in convex geometry, and I am especially interested in the isoperimetric problems of geometric invariants, and the Minkowski problems for geometric measures. I'm also fascinated by PDE theory and functional analysis. 
 
 I am partially supported by a general program of the National Natural Science Foundation of China (12071277), and a key program of the Science and Technology Commission of Shanghai Municipality (20JC1412600).
 
