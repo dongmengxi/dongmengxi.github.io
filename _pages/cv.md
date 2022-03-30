@@ -23,7 +23,7 @@ This is a   seminar series (online/in person) at [Shanghai University](https://w
 
 | Beijing Time  | Speaker |         Title          |        Tencent Meeting          |
 | --------- |-------| --------- ------------ | --- -----|
-| Apr. 20th 9:00 am| Gaoyong Zhang (New York University)  | TBA[pdf](/files/wang.pdf)    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
+| Apr. 20 9:00 am| [Gaoyong Zhang](https://cims.nyu.edu/~gaoyong/)  | TBA[pdf](/files/zhang.pdf)    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
 | TBA      | TBA    | TBA    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
 | TBA      | TBA    | TBA    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
 | TBA      | TBA    | TBA    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
