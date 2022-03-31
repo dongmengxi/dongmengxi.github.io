@@ -26,7 +26,7 @@ This is a   seminar series (online/in person) at [Shanghai University](https://w
 | Apr. 20 9:00 am| [Gaoyong Zhang](https://cims.nyu.edu/~gaoyong/)  | TBA[pdf](/files/zhang.pdf)    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
 | TBA      | TBA    | TBA    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
 | TBA      | TBA    | TBA    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
-| TBA      | TBA    | TBA    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
+| May 06  9:00 am | Qirui Li    | TBA    |[729-4495-6932](https://meeting.tencent.com/dm/mLEIWOuxRRiH)|
 | TBA      | TBA    | TBA    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
 | TBA      | TBA    | TBA    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
 
