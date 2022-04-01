@@ -24,7 +24,7 @@ This is a   seminar series (online/in person) at [Shanghai University](https://w
 | Beijing Time  | Speaker |         Title          |        Tencent Meeting          |
 | --------- |-------| --------- ------------ | --- -----|
 | Apr. 20 9:00 am| [Gaoyong Zhang](https://cims.nyu.edu/~gaoyong/)  | TBA[pdf](/files/zhang.pdf)    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
-| Apr. 29 10:00 am  | [Fangyang Zheng](https://www.researchgate.net/profile/Fangyang-Zheng)   | [729-4495-6932](https://meeting.tencent.com/dm/mLEIWOuxRRiH)|
+| Apr. 29 10:00 am  | [Fangyang Zheng](https://www.researchgate.net/profile/Fangyang-Zheng) |TBA | [729-4495-6932](https://meeting.tencent.com/dm/mLEIWOuxRRiH)|
 | TBA      | TBA    | TBA    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
 | May 06  10:00 am | [Qirui Li](https://person.zju.edu.cn/qrli)    | TBA    |[729-4495-6932](https://meeting.tencent.com/dm/mLEIWOuxRRiH)|
 | TBA      | TBA    | TBA    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
