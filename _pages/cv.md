@@ -28,6 +28,5 @@ This is a   seminar series (online/in person) at [Shanghai University](https://w
 | TBA      | TBA    | TBA    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
 | May 06  10:00 am | [Qirui Li](https://person.zju.edu.cn/qrli)    | TBA    |[729-4495-6932](https://meeting.tencent.com/dm/mLEIWOuxRRiH)|
 | TBA      | TBA    | TBA    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
-| TBA      | TBA    | TBA    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
 | May 20  10:00 am | [Bin Zhou](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70482.htm)    | TBA    |[729-4495-6932](https://meeting.tencent.com/dm/mLEIWOuxRRiH)|
 
