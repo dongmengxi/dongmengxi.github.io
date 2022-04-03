@@ -27,6 +27,6 @@ This is a   seminar series (online/in person) at [Shanghai University](https://w
 | Apr. 29 10:00 am  | [Fangyang Zheng](https://www.researchgate.net/profile/Fangyang-Zheng) |厄米流形上的 Strominger 联络[pdf](/files/报告题目和摘要-郑老师.pdf) |[716-8675-1741](https://meeting.tencent.com/dm/OQfHFDlLrKW1)|
 | TBA      | TBA    | TBA   |[716-8675-1741](https://meeting.tencent.com/dm/OQfHFDlLrKW1)|
 | May 06  10:00 am | [Qirui Li](https://person.zju.edu.cn/qrli)    | TBA    |[716-8675-1741](https://meeting.tencent.com/dm/OQfHFDlLrKW1)|
-| TBA      | TBA    | TBA    |[716-8675-1741](https://meeting.tencent.com/dm/OQfHFDlLrKW1)|
+| May 11 10:00 am  | [Weimin Sheng](https://person.zju.edu.cn/0094330)    | TBA    |[716-8675-1741](https://meeting.tencent.com/dm/OQfHFDlLrKW1)|
 | May 20  10:00 am | [Bin Zhou](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70482.htm)    | TBA    |[716-8675-1741](https://meeting.tencent.com/dm/OQfHFDlLrKW1)|
 
