@@ -23,10 +23,10 @@ This is a   seminar series (online/in person) at [Shanghai University](https://w
 
 | Beijing Time  | Speaker |         Title          |        Tencent Meeting          |
 | --------- |-------| --------- ------------ | --- -----|
-| Apr. 20 9:00 am| [Gaoyong Zhang](https://cims.nyu.edu/~gaoyong/)  | TBA[pdf](/files/zhang.pdf)    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
-| Apr. 29 10:00 am  | [Fangyang Zheng](https://www.researchgate.net/profile/Fangyang-Zheng) |厄米流形上的 Strominger 联络[pdf](/files/报告题目和摘要-郑老师.pdf) | [729-4495-6932](https://meeting.tencent.com/dm/mLEIWOuxRRiH)|
-| TBA      | TBA    | TBA    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
-| May 06  10:00 am | [Qirui Li](https://person.zju.edu.cn/qrli)    | TBA    |[729-4495-6932](https://meeting.tencent.com/dm/mLEIWOuxRRiH)|
-| TBA      | TBA    | TBA    |[540-4692-4915](https://meeting.tencent.com/dm/vrnNf8z9PIUw)|
-| May 20  10:00 am | [Bin Zhou](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70482.htm)    | TBA    |[729-4495-6932](https://meeting.tencent.com/dm/mLEIWOuxRRiH)|
+| Apr. 20 9:00 am| [Gaoyong Zhang](https://cims.nyu.edu/~gaoyong/)  | TBA[pdf](/files/zhang.pdf)    |[716-8675-1741](https://meeting.tencent.com/dm/OQfHFDlLrKW1)|
+| Apr. 29 10:00 am  | [Fangyang Zheng](https://www.researchgate.net/profile/Fangyang-Zheng) |厄米流形上的 Strominger 联络[pdf](/files/报告题目和摘要-郑老师.pdf) |[716-8675-1741](https://meeting.tencent.com/dm/OQfHFDlLrKW1)|
+| TBA      | TBA    | TBA   |[716-8675-1741](https://meeting.tencent.com/dm/OQfHFDlLrKW1)|
+| May 06  10:00 am | [Qirui Li](https://person.zju.edu.cn/qrli)    | TBA    |[716-8675-1741](https://meeting.tencent.com/dm/OQfHFDlLrKW1)|
+| TBA      | TBA    | TBA    |[716-8675-1741](https://meeting.tencent.com/dm/OQfHFDlLrKW1)|
+| May 20  10:00 am | [Bin Zhou](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70482.htm)    | TBA    |[716-8675-1741](https://meeting.tencent.com/dm/OQfHFDlLrKW1)|
 
