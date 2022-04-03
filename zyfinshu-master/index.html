@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+  <title>Geometry and Analysis Colloquium</title>
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <style>
+    *{
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+    }
+    html,body{
+      width: 100%;
+      height: 100%;
+    }
+    body{
+      color: #333;
+      font: 1em/1.4 'Microsoft Yahei', 'PingFang SC', 'Avenir', 'Segoe UI', 'Hiragino Sans GB', 'STHeiti', 'Microsoft Sans Serif', 'WenQuanYi Micro Hei', sans-serif
+    }
+    a{
+      text-decoration: none;
+    }
+    img {
+      max-width: 100%;
+      max-height: 100%;
+      vertical-align: middle;
+    }
+    ul {
+      list-style: none;
+    }
+    
+    .topImg{
+      background-image: url(./hero-bg.jpg);
+      background-position: center center;
+    }
+    .el-carousel__item .title{
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content:center;
+      opacity: 0.75;
+      color:#ffffff;
+    }
+    .topInfo{
+      display:flex;
+      flex-wrap:wrap;
+      justify-content:center;
+      align-content:center;
+    }
+    .el-carousel__item .title h3 {
+      /* font-size: 2.0vw; */
+      font-size: 17px;
+      text-align: center;
+      /* padding-left: 2.4vw; */
+      margin: 0.56vh 0;
+    }
+    .el-carousel__item .title h4 {
+      font-size: 16px;
+      /* font-size: 1.6vw; */
+      text-align: center;
+      margin-right: 2.6vw;
+    }
+    .el-carousel__item .title h4:last-of-type {
+      margin-right: 0;
+    }
+    .el-carousel__item .title h4 span.title{
+      color:#ffff00;
+      display: inline;
+    }
+    .el-carousel__item .title h5 {
+      color:#ffff00;
+      font-size: 2.0vw;
+      padding: 0 4.8vw;
+      margin: 2vh 0;
+      /* text-align: center; */
+    }
+    .el-carousel__item .title h6 {
+      color:#ffffff;
+      text-indent: 2em;
+      font-size: 1.6vw;
+      padding: 0 1.8vw;
+      /* text-align: center; */
+    }
+
+    .infoDes{
+      padding:1vh 2vw;
+      /* font-size: 1.4vw; */
+      font-size: 14px;
+      text-indent: 2em;
+      color:#7d7d7d;
+    }
+    .text {
+      font-size: 0.729vw;
+    }
+
+    .item {
+      margin-bottom: 1.66vh;
+    }
+
+    .box-card {
+      width: 80%;
+    }
+    .card-header {
+      font-weight: bold;
+      font-size: 2.0vw;
+      text-align: center;
+    }
+    .card-header>span{
+      font-size:18px;
+      color:#0213fc;
+    }
+    .el-collapse .is-active{
+      color:#d405fd;
+      font-weight: bold;
+    }
+    .el-collapse-item__header .itemTitle{
+      display: flex;
+      flex-wrap: wrap;
+      height: 100%;
+      align-items: center;
+    }
+    .speacker, .addr, .timer {
+      height:1.46vh;
+      padding:0 1vw 0 0;
+      margin-bottom: 0.22vh;
+      line-height: 1.46vh;
+    }
+    .speacker{
+      padding: 0;
+    }
+    .timer {
+      margin-bottom: 0;
+      opacity: 0.6;
+    }
+    .el-collapse .is-active .timer {
+      color:#9a9a9c;
+    }
+    .el-collapse .is-active  .addr {
+      opacity:0.4;
+    }
+    .el-collapse span.title{
+      color:#6666ff;
+      font-weight: bold;
+    }
+    .el-collapse-item__content{
+      border-top: 0.09vh dashed #9a9a9c;
+    }
+    .infofooter{
+      display: flex;
+      justify-content: flex-end;
+    }
+    .infofooter span {
+      color: #cccccc;
+      margin: 1.6vh 3vw 0;
+    }
+    .footer{
+      font-size: 12px;
+      margin-top:4.62vh;
+      padding-bottom: 2.0vh;
+      opacity: 0.4;
+    }
+
+    .ellipsis {
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+    }
+    .ellipsis-2 {
+      word-break: break-all;
+      text-overflow: ellipsis;
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 2;
+      overflow: hidden;
+    }
+  </style>
+  <script src="https://unpkg.com/vue@3.2.8"></script>
+  <!-- import CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/element-plus/dist/index.css">
+  <!-- import JavaScript -->
+  <script src="https://unpkg.com/element-plus"></script>
+  <title>Element Plus demo</title>
+</head>
+<body>
+  <div id="app">
+    <el-row class="topImg">
+      <el-col :xs="w1" :sm="w1" :md="w1" :lg="w1" :xl="w1"></el-col>
+      <el-col :xs="w22" :sm="w22" :md="w22" :lg="w22" :xl="w22">
+        <el-carousel  indicator-position="none" :interval="interval" height="18vh" :loop="false" :autoplay="false" trigger="click" arrow="never">
+          <!-- <el-carousel-item v-for="(item, index) in reportItems" :key="index">
+            <div class="title">
+              <h3> {{item.title}}<br>{{item.f1}}</h3>
+              <h4><span class="title">{{item.f2}}</span>&nbsp;&nbsp;{{item.f3}}</h3>
+            </div>
+          </el-carousel-item> -->
+          <el-carousel-item reportItems>
+            <div class="title">
+              <h3> {{reportItems[0].title}}<br><span style="color:#f3f3f3">{{reportItems[0].f1}}</span></h3>
+              <div class="topInfo">
+                <h4><span class="title">{{reportItems[0].f2}}</span>&nbsp;{{reportItems[0].f3}}</h4>
+                <h4><span class="title">{{reportItems[1].f2}}</span>&nbsp;{{reportItems[1].f3}}</h4>
+              </div>
+            </div>
+          </el-carousel-item>
+          <!-- <el-carousel-item>
+            <div class="title">
+              <h5> {{f2_2}}</h5>
+              <h6>{{ f3_2_1}}<br/>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ f3_2_2 }}</h6>
+            </div>
+          </el-carousel-item>
+        </el-carousel> -->
+      </el-col>
+      <el-col :xs="w1" :sm="w1" :md="w1" :lg="w1" :xl="w1"></el-col>
+    </el-row>
+    <el-row style="margin:1.2vh 0;">
+      <el-col :xs="w1" :sm="w1" :md="w1" :lg="w1" :xl="w1"></el-col>
+      <el-col :xs="w22" :sm="w22" :md="w22" :lg="w22" :xl="w22">
+        <div class="infoDes">{{f3_2_1}}</div>
+        <div class="infoDes">{{f3_2_2}}</div>
+      </el-col>
+      <el-col :xs="w1" :sm="w1" :md="w1" :lg="w1" :xl="w1"></el-col>
+    </el-row>
+    <el-row>
+      <el-col :xs="w1" :sm="w1" :md="w1" :lg="w1" :xl="w1"></el-col>
+      <el-col :xs="w22" :sm="w22" :md="w22" :lg="w22" :xl="w22">
+        <el-card class="boxCard">
+          <template #header>
+            <div class="card-header">
+              <span>近期日程安排(Schedule)</span>
+            </div>
+          </template>
+          <el-collapse v-model="activeName" accordion style="border:none">
+            <el-collapse-item v-for="(item1, index1) in nearList" :key="index1" :name="index1" style="justify-content: space-around;">
+              <template #title>
+                  <div class="itemTitle">
+                    <div class="speacker">
+                      {{item1.speacker}}
+                    </div>
+                    <div class="addr">{{item1.addr}}</div>
+                    <div class="timer">
+                      {{item1.dater}}{{item1.week}}{{item1.timer}}
+                    </div>
+                  </div>
+              </template>
+              <div > 
+                <span class="title">报告题目 (Title)：</span>{{ item1.title }}
+              </div>
+              <div v-if="false"> 
+                <span class="title">报告人 (Speaker)：</span>{{ item1.speacker }}{{item1.addr}}
+              </div>
+              <div > 
+                <span class="title">报告地点 (Place)：</span>{{ item1.placeAddr_Id }}
+              </div>
+              <div> 
+                <span class="title">报告摘要：</span>{{ item1.substract }}
+              </div>
+              <div class="infofooter"><span>{{ item1.id}}</span></div>
+            </el-collapse-item>
+          </el-collapse>
+        </el-card>
+      </el-col>
+      <el-col :xs="w1" :sm="w1" :md="w1" :lg="w1" :xl="w1"></el-col>
+    </el-row>
+    <el-row>
+      <el-col :xs="w24" :sm="w24" :md="w24" :lg="w24" :xl="w24">
+        <div  style="height:2vh;">&nbsp;</div>
+      </el-col>
+    </el-row>
+    <el-row v-if="false">
+      <el-col :xs="w1" :sm="w1" :md="w1" :lg="w1" :xl="w1"></el-col>
+      <el-col :xs="w22" :sm="w22" :md="w22" :lg="w22" :xl="w22">
+        <el-card class="boxCard">
+          <template #header>
+            <div class="card-header">
+              <span>近期的日程安排(Schedule)</span>
+            </div>
+          </template>
+          <el-collapse accordion style="border:none">
+            <el-collapse-item v-for="(item1, index1) in afterList" :key="index1" :name="index1" style="justify-content: space-around;">
+              <template #title>
+                <div class="itemTitle">
+                  <div class="speacker">
+                    {{item1.speacker}}
+                  </div>
+                  <div class="addr">{{item1.addr}}</div>
+                  <div class="timer">
+                    {{item1.dater}}{{item1.week}}{{item1.timer}}
+                  </div>
+                </div>
+              </template>
+              <div > 
+                <span class="title">报告题目 (Title)：</span>{{ item1.title }}
+              </div>
+              <div v-if="false"> 
+                <span class="title">报告人 (Speaker)：</span>{{ item1.speacker }}{{item1.addr}}
+              </div>
+              <div > 
+                <span class="title">报告地点 (Place)：</span>{{ item1.placeAddr_Id }}
+              </div>
+              <div > 
+                <span class="title">报告摘要：</span>{{ item1.substract }}
+              </div>
+            </el-collapse-item>
+          </el-collapse>
+        </el-card>
+      </el-col>
+      <el-col :xs="w1" :sm="w1" :md="w1" :lg="w1" :xl="w1"></el-col>
+    </el-row>
+    <el-row>
+      <el-col :xs="w24" :sm="w24" :md="w24" :lg="w24" :xl="w24">
+        <div  style="height:2vh;">&nbsp;</div>
+      </el-col>
+    </el-row>
+    <el-row>
+      <el-col :xs="w1" :sm="w1" :md="w1" :lg="w1" :xl="w1"></el-col>
+      <el-col :xs="w22" :sm="w22" :md="w22" :lg="w22" :xl="w22">
+        <el-card class="boxCard" >
+          <template #header>
+            <div class="card-header" @click="showBeforeList = ! showBeforeList">
+              <span style="color:#d3dce6">已结束的日程(Schedule)</span>
+            </div>
+          </template>
+          <el-scrollbar max-height="26vh">
+          <el-collapse accordion style="border:none" v-show="showBeforeList">
+            <el-collapse-item v-for="(item1, index1) in beforeList" :key="index1" :name="index1" style="justify-content: space-around;">
+              <template #title>
+                <div class="itemTitle">
+                  <div class="speacker">
+                    {{item1.speacker}}
+                  </div>
+                  <div class="addr">{{item1.addr}}</div>
+                  <div class="timer">
+                    {{item1.dater}}{{item1.week}}{{item1.timer}}
+                  </div>
+                </div>
+              </template>
+              <div > 
+                <span class="title">报告题目 (Title)：</span>{{ item1.title }}
+              </div>
+              <div v-if="false"> 
+                <span class="title">报告人 (Speaker)：</span>{{ item1.speacker }}{{item1.addr}}
+              </div>
+              <div > 
+                <span class="title">报告地点 (Place)：</span>{{ item1.placeAddr_Id }}
+              </div>
+              <div > 
+                <span class="title">报告摘要：</span>{{ item1.substract }}
+              </div>
+              <div class="infofooter"><span>{{ item1.id}}</span></div>
+            </el-collapse-item>
+          </el-collapse>
+        </el-scrollbar>
+        </el-card>
+      </el-col>
+      <el-col :xs="w1" :sm="w1" :md="w1" :lg="w1" :xl="w1"></el-col>
+    </el-row>
+    <el-row>
+      <el-col :xs="w24" :sm="w24" :md="w24" :lg="w24" :xl="w24" style="text-align:center;">
+        <div  class="footer">{{ footerDes }}</div>
+      </el-col>
+    </el-row>
+  </div>
+  <script>
+    const App = {
+      data() {
+        const w1 = 1
+        const w2 = 2
+        const w22 = 22
+        const w24 = 24
+        const interval = 6000
+        const showBeforeList = false
+        const title = '几何与分析综合报告'
+        const f1 = 'Geometry and Analysis Colloquium'
+        const f2 = '组织者:'
+        const f3 = '席东盟、李晋'
+        const f2_1 = '学术委员会:'
+        const f3_1 = '周向宇、郜云、盛万成、冷岗松'
+        const f2_2 = '简介:'
+        const f3_2_1 = '“几何与分析综合报告”是长期举办的综合数学多个领域的报告型研讨会，通常每周一次，旨在增进上海大学凸几何团队与国内外几何、分析以及相关领域同行的学术交流。相关领域涉及几何分析、凸几何、多复变与复几何、偏微分方程、泛函分析等。'
+        const f3_2_2 = '报告采用线上/线下相结合模式，通常在周三或周五举行。'
+        const footerDes = '版权所有 © 上海大学数学系'
+        const reportItems = [
+          // {
+          //   title:'几何综合报告',
+          //   f1:'Geometry Colloquium',
+          //   f2:'时间：',
+          //   f3:'周三或周五'
+          // },
+          {
+            title,
+            f1,
+            f2,
+            f3
+          },
+          {
+            title,
+            f1,
+            f2:f2_1,
+            f3:f3_1
+          },
+          ]
+        const scheduleItems = [
+          {
+            title:'Regular representations and A_m(V)-A_n(V)-bimodules',
+            speacker:'李海生教授',
+            dater:'2022年4月1日',
+            week:'(周六)',
+            timer:'10:00-11:00',
+            addr:'（美国Rutgers大学Camden分校）',
+            placeAddr_Id:'腾讯会议 会议ID：765-947-281',
+            substract: 'For a vertex operator algebra V, the regular representation (module) D_(z)(W), associated to a V-module W and a nonzero complex number z, is a weak V\\otimes V-module which was constructed canonically inside the full dual space W\^\*. In the past, regular representation had been used to give new proofs for Zhu\'s A(V)-theory, Frenkel-Zhu\'s fusion rule theorem, and A_n(V)-theory. In this current work, we establish a natural connection of regular representations with the Dong-Jiang theory of A_\{m\}(V)-A_\{n\}(V)-bimodules.' ,
+            id: 'Seminar第2241期'
+          },
+          {
+            title:'Pointed modular tensor category',
+            speacker:'董崇英教授',
+            dater:'2022年3月26日',
+            week:'(周六)',
+            timer:'9:00-10:00',
+            addr:'（美国加州大学Santa Cruz分校）',
+            placeAddr_Id:'腾讯会议 会议ID：765-947-281',
+            substract: 'A modular tensor category is pointed if every simple object is a simple current. We show that any pointed modular tensor category is equivalent to the module category of a lattice vertex operator algebra. Moreover, if the pointed modular tensor category C is the module category of a twisted Drinfeld double associated to a finite abelian group G and a 3-cocycle with coefficients in U(1), then there exists a selfdual positive definite even lattice L such that G can be realized an automorphism group of lattice vertex operator algebra V_L, V_L^G is also a lattice vertex operator algebra and C is equivalent to the module category of V_L^G. This is a joint work with S. Ng and L. Ren.'  ,
+            id: 'Seminar第2242期'
+          },
+          {
+            title:'Pointed modular tensor category',
+            speacker:'董崇英教授',
+            dater:'2022年3月26日',
+            week:'(周六)',
+            timer:'9:00-10:00',
+            addr:'（美国加州大学Santa Cruz分校）',
+            placeAddr_Id:'腾讯会议 会议ID：765-947-281',
+            substract: 'A modular tensor category is pointed if every simple object is a simple current. We show that any pointed modular tensor category is equivalent to the module category of a lattice vertex operator algebra. Moreover, if the pointed modular tensor category C is the module category of a twisted Drinfeld double associated to a finite abelian group G and a 3-cocycle with coefficients in U(1), then there exists a selfdual positive definite even lattice L such that G can be realized an automorphism group of lattice vertex operator algebra V_L, V_L^G is also a lattice vertex operator algebra and C is equivalent to the module category of V_L^G. This is a joint work with S. Ng and L. Ren.'  ,
+            id: 'Seminar第2242期'
+          },
+          {
+            title:'Pointed modular tensor category',
+            speacker:'董崇英教授',
+            dater:'2022年3月26日',
+            week:'(周六)',
+            timer:'9:00-10:00',
+            addr:'（美国加州大学Santa Cruz分校）',
+            placeAddr_Id:'腾讯会议 会议ID：765-947-281',
+            substract: 'A modular tensor category is pointed if every simple object is a simple current. We show that any pointed modular tensor category is equivalent to the module category of a lattice vertex operator algebra. Moreover, if the pointed modular tensor category C is the module category of a twisted Drinfeld double associated to a finite abelian group G and a 3-cocycle with coefficients in U(1), then there exists a selfdual positive definite even lattice L such that G can be realized an automorphism group of lattice vertex operator algebra V_L, V_L^G is also a lattice vertex operator algebra and C is equivalent to the module category of V_L^G. This is a joint work with S. Ng and L. Ren.'  ,
+            id: 'Seminar第2242期'
+          },
+          {
+            title:'Pointed modular tensor category',
+            speacker:'董崇英教授',
+            dater:'2022年3月26日',
+            week:'(周六)',
+            timer:'9:00-10:00',
+            addr:'（美国加州大学Santa Cruz分校）',
+            placeAddr_Id:'腾讯会议 会议ID：765-947-281',
+            substract: 'A modular tensor category is pointed if every simple object is a simple current. We show that any pointed modular tensor category is equivalent to the module category of a lattice vertex operator algebra. Moreover, if the pointed modular tensor category C is the module category of a twisted Drinfeld double associated to a finite abelian group G and a 3-cocycle with coefficients in U(1), then there exists a selfdual positive definite even lattice L such that G can be realized an automorphism group of lattice vertex operator algebra V_L, V_L^G is also a lattice vertex operator algebra and C is equivalent to the module category of V_L^G. This is a joint work with S. Ng and L. Ren.'  ,
+            id: 'Seminar第2242期'
+          },
+          {
+            title:'Pointed modular tensor category',
+            speacker:'董崇英教授',
+            dater:'2022年3月26日',
+            week:'(周六)',
+            timer:'9:00-10:00',
+            addr:'（美国加州大学Santa Cruz分校）',
+            placeAddr_Id:'腾讯会议 会议ID：765-947-281',
+            substract: 'A modular tensor category is pointed if every simple object is a simple current. We show that any pointed modular tensor category is equivalent to the module category of a lattice vertex operator algebra. Moreover, if the pointed modular tensor category C is the module category of a twisted Drinfeld double associated to a finite abelian group G and a 3-cocycle with coefficients in U(1), then there exists a selfdual positive definite even lattice L such that G can be realized an automorphism group of lattice vertex operator algebra V_L, V_L^G is also a lattice vertex operator algebra and C is equivalent to the module category of V_L^G. This is a joint work with S. Ng and L. Ren.'  ,
+            id: 'Seminar第2242期'
+          },
+          {
+            title:'Regular representations and A_m(V)-A_n(V)-bimodules',
+            speacker:'李海生教授',
+            dater:'2022年04月12日',
+            week:'(周六)',
+            timer:'10:00-11:00',
+            addr:'（美国Rutgers大学Camden分校）',
+            placeAddr_Id:'腾讯会议 会议ID：765-947-281',
+            substract: 'A modular tensor category is pointed if every simple object is a simple current. We show that any pointed modular tensor category is equivalent to the module category of a lattice vertex operator algebra. Moreover, if the pointed modular tensor category C is the module category of a twisted Drinfeld double associated to a finite abelian group G and a 3-cocycle with coefficients in U(1), then there exists a selfdual positive definite even lattice L such that G can be realized an automorphism group of lattice vertex operator algebra V_L, V_L^G is also a lattice vertex operator algebra and C is equivalent to the module category of V_L^G. This is a joint work with S. Ng and L. Ren.'  ,
+            id: 'Seminar第2243期'
+          },
+          
+        ]
+         // 今天后ddifD的日期 ddifD相隔的天数，支持负数
+         const formatDate = (ddifD=0)=>{
+          let nowD = new Date()
+          nowD.setDate(nowD.getDate() + ddifD)
+          let year = nowD.getFullYear()
+          let month = nowD.getMonth() + 1
+          let day = nowD.getDate()
+          if (month < 10 ){
+            month = '0' + month
+          }
+          if (day < 10 ) {
+            day = '0' + day
+          }
+          return year + month + day
+        }
+        // 年月日 ---> yyyy-mm-dd
+        const to_dateString = (item, ddifDay=7) =>{
+          // ddifDay 0-7时，近一个星期
+          // ddifDay 大于7时，大于1个星期
+          // ddifDay 负数时，已经过期的
+          const d2 = item.split("年")
+          let d3 = d2[1].split("月")
+          if (d3[0].length<2 && d3[0]< 10 ) {
+            d3[0] = '0' + d3[0] 
+          }
+          let  d4 = d3[1].split("日")
+          if (d4[0].length<2 && d4[0] < 10) {
+            d4[0] = '0' + d4[0]
+          }
+
+          if (ddifDay < 0 ) {
+            return (`${d2[0]}${d3[0]}${d4[0]}` < formatDate(0))
+          }else if (ddifDay <= 7) {
+            return (`${d2[0]}${d3[0]}${d4[0]}` >= formatDate(0)) && (`${d2[0]}${d3[0]}${d4[0]}` <= formatDate(ddifDay))
+          }else {
+            return `${d2[0]}${d3[0]}${d4[0]}` > formatDate(ddifDay)
+          }
+        }
+
+        // 相隔的天数
+        const afterDay = 7
+        const afterList = scheduleItems.filter(item => {
+          let item1 = item.dater
+          return to_dateString(item1, afterDay+1)
+        })
+        const nearList1 = scheduleItems.filter(item => {
+          let item1 = item.dater
+          return to_dateString(item1, afterDay)
+        })
+        const beforeList = scheduleItems.filter(item => {
+          let item1 = item.dater
+          return to_dateString(item1, -1)
+        })
+
+        nearList = [ ...nearList1, ...afterList ]
+        const activeName = 0
+        return {
+          f2_2,
+          f3_2_1,
+          f3_2_2,
+          reportItems,
+          interval,
+          scheduleItems,
+          afterList,
+          nearList,
+          beforeList,
+          activeName,
+          w1,
+          w2,
+          w22,
+          w24,
+          showBeforeList,
+          footerDes
+        };
+      },
+      methods:{
+        showCompletedList(){
+          this.showBeforeList = !this.showBeforeList
+        }
+      }
+    };
+    const app = Vue.createApp(App);
+    app.use(ElementPlus);
+    app.mount("#app");
+  </script>
+</body>
+</html>
