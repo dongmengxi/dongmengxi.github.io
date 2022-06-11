@@ -21,11 +21,11 @@ This is a   seminar series (online/in person) at [Shanghai University](https://w
 
 ## Upcoming Talks
 
-| Beijing Time  | Speaker |         Title          |        Tencent Meeting          |
+| Beijing Time  | Speaker |         Title          |        Meeting          |
 | --------- |-------| --------- ------------ | --- -----|
-| Jun 17 10:00 am| [Chao Xia](http://my.xmu.edu.cn/2022/0123/c20315a446970/page.htm)  | Heintze-Karcher's inequality and Alexandrov’s soup bubble theorem [pdf](/files/Xia.pdf)  |[716-8675-1741](https://meeting.tencent.com/dm/OQfHFDlLrKW1)|
-| Jun 24 10:00 am  | [Deping Ye](https://www.math.mun.ca/~depingy/) |牟合方盖的前世今生[pdf](/files/Ye.pdf) |[716-8675-1741](https://meeting.tencent.com/dm/OQfHFDlLrKW1)|
-| Jun 29  15:00 am | [Monika Ludwig](https://dmg.tuwien.ac.at/ludwig/)    | Functional Intrinsic Volumes[pdf](/files/Ludwig.pdf)    |[962 1075 5509](https://tuwien.zoom.us/j/96210755509?pwd=UlNyTUpBa1FIUVVZMXZsOUJDUE1qZz09)|
+| Jun 17 10:00 am| [Chao Xia](http://my.xmu.edu.cn/2022/0123/c20315a446970/page.htm)  | Heintze-Karcher's inequality and Alexandrov’s soup bubble theorem [pdf](/files/Xia.pdf)  |Tencent [716-8675-1741](https://meeting.tencent.com/dm/OQfHFDlLrKW1)|
+| Jun 24 10:00 am  | [Deping Ye](https://www.math.mun.ca/~depingy/) |牟合方盖的前世今生[pdf](/files/Ye.pdf) |Tencent [716-8675-1741](https://meeting.tencent.com/dm/OQfHFDlLrKW1)|
+| Jun 29  15:00 am | [Monika Ludwig](https://dmg.tuwien.ac.at/ludwig/)    | Functional Intrinsic Volumes[pdf](/files/Ludwig.pdf)    |Zoom[962 1075 5509](https://tuwien.zoom.us/j/96210755509?pwd=UlNyTUpBa1FIUVVZMXZsOUJDUE1qZz09)|
 
 
 <hr>
